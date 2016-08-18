@@ -203,7 +203,8 @@ gem 'ace-rails-ap', '~> 2.0.1'
 gem 'mousetrap-rails', '~> 1.4.6'
 
 # Detect and convert string character encoding
-gem 'charlock_holmes', '~> 0.6.9'
+#gem 'charlock_holmes', '~> 0.6.9'
+gem "charlock_holmes_bundle_icu", "~> 0.6.9.2"
 
 gem "sass-rails", '~> 5.0.0'
 gem "coffee-rails", '~> 4.1.0'
